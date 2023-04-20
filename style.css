@@ -1,11 +1,19 @@
 /* css reset */
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-body{
+body {
     max-width: 1080px;
-    margin: 0 auto;
-    
+    margin: 50px auto;
+    font-family: Fredoka, sans-serif
+}
+header {
+    text-align: center;
+}
+h1 {
+    font-weight: 900;
+    padding-bottom: 50px;
+    color: #E6326F;
 }
